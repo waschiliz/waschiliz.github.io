@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waschiliz.github.io/sitemap
+Sitemap: https://waschiliz.github.io/app/sitemap
+Sitemap: https://waschiliz.github.io/assets/sitemap
+Sitemap: https://waschiliz.github.io/css/sitemap
+Sitemap: https://waschiliz.github.io/includes/sitemap
+Sitemap: https://waschiliz.github.io/item/sitemap
+Sitemap: https://waschiliz.github.io/src/sitemap
